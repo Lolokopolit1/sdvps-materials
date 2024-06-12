@@ -1,6 +1,7 @@
-## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
+##Task 1 screenshot:
+![runner config](https://github.com/Lolokopolit1/sdvps-materials/assets/83848882/b0e36568-0633-469c-83d3-323aff27dbc9)
 
+##Task 2 screenshot:
+![passed tasks](https://github.com/Lolokopolit1/sdvps-materials/assets/83848882/36a66032-a992-4d68-8d63-f9bdc461b16b)
 
-- [Дополнительный материал для занятия "8.2. Что такое DevOps. СI/СD"](CICD/8.2-hw.md)
-
-- [Дополнительный материал для занятия "8.3. GitLab"](https://github.com/netology-code/sdvps-materials/tree/main/gitlab)
+And yml file is in main branch
